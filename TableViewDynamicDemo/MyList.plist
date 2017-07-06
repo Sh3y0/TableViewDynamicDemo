@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version Code</key>
+	<array>
+		<string>OS X 10.11</string>
+		<string>OS X 10 beta</string>
+		<string>OS X 10.0</string>
+		<string>OS X 10.1</string>
+		<string>OS X 10.2</string>
+		<string>OS X 10.3</string>
+		<string>OS X 10.4</string>
+		<string>OS X 10.4.4</string>
+		<string>OS X 10.5</string>
+		<string>OS X 10.6</string>
+		<string>OS X 10.7</string>
+		<string>OS X 10.8</string>
+		<string>OS X 10.9</string>
+		<string>OS X 10.10</string>
+	</array>
+	<key>OSX</key>
+	<array>
+		<string>El Capitan</string>
+		<string>Kodiak</string>
+		<string>Cheetah</string>
+		<string>Puma</string>
+		<string>Jaguar</string>
+		<string>Panther</string>
+		<string>Tiger (Merlot)</string>
+		<string>Tiger (Intel: Chardonay)</string>
+		<string>Leopard (Chablis)</string>
+		<string>Snow Leopard</string>
+		<string>Lion (Barolo)</string>
+		<string>Mountain Lion (Zinfandel)</string>
+		<string>Mavericks (Cabernet)</string>
+		<string>Yosemite (Syrah)</string>
+	</array>
+</dict>
+</plist>
